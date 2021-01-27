@@ -1,0 +1,98 @@
+body{
+    margin: 0%;
+    font-family: 'Baloo Da 2', cursive;
+font-family: 'Hind Siliguri', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: green;
+    padding-left: 50px;
+
+}
+p{
+    color: rgb(90, 49, 66);
+}
+.degin1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.degin1 img{
+    width: 100%;
+    height: 100%;
+    padding: 30% 10%;
+
+}
+.degin2{
+    width: 40%;
+    float:right;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    
+}
+.degin2 img{
+    width: 50%;
+    height: 40%;
+    padding-left: 50px 10px;
+    
+}
+
+.degin3{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.degin3 img{
+    width: 80%;
+    height: 60%;
+    padding: 40% 10%;
+
+}
+.degin4{
+    width: 40%;
+    float:right;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.degin4 img{
+    width: 90%;
+    height: 80%;
+    padding:30% 10%;
+    
+}
+
+.degin5{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.degin5 img{
+    width: 80%;
+    height: 60%;
+    padding: 30% 30%;
+
+}
+.degin6{
+    width: 40%;
+    float:right;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.degin6 img{
+    width: 90%;
+    height: 80%;
+    padding:30% 10%;
+
+
+section{
+    height: 250px;
+    padding-bottom: 100px;
+}
